@@ -1,11 +1,11 @@
 # Site settings
-author: larryvsdata
-title: 
+author: Erman 
+title: LarryVsWeb
 header-img: img/home-bg.png
 email: ermanbekaroglu@gmail.com
-copyright_name: larryvsdata
+copyright_name: Erman 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Various Web Projects
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  larryvsdata
